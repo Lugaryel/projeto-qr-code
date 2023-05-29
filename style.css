@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color:rgb(159, 209, 250);
+    size: 1366px;
+}
+
+main {
+ 
+    background-color: #fff;
+    width: 300px;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+
+
+}
+
+img {
+    width: 200px;
+    padding: 15px;
+    border-radius: 10px;
+}
